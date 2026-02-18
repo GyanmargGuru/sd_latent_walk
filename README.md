@@ -20,7 +20,7 @@ This Google Colab notebook provides a comprehensive environment for generating d
 
 Click the button below to open this notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GyanmargGuru/sa_latent_walk/blob/main/SD_Latent_walk_v1.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GyanmargGuru/sd_latent_walk/blob/main/SD_Latent_walk_v1.ipynb)
 
 ### 2. Choose Your Artistic Model
 
