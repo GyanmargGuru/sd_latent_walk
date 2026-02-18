@@ -1,6 +1,3 @@
-# sd_latent_walk
-Video generation with latent space walk using Stable Diffusion.
-
 # Stable Diffusion Latent Walk with Artistic Models
 
 This Google Colab notebook provides a comprehensive environment for generating dynamic latent walk videos using various artistic Stable Diffusion models. Explore the creative possibilities of AI-generated art by smoothly transitioning between different latent spaces, creating mesmerizing and seamless animated sequences.
@@ -23,9 +20,7 @@ This Google Colab notebook provides a comprehensive environment for generating d
 
 Click the button below to open this notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb) 
-
-*(Replace `YOUR_GITHUB_USERNAME`, `YOUR_REPO_NAME`, and `YOUR_NOTEBOOK_NAME.ipynb` with your actual GitHub details and notebook filename.)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GyanmargGuru/sa_latent_walk/blob/main/SD_Latent_walk_v1.ipynb) 
 
 ### 2. Choose Your Artistic Model
 
